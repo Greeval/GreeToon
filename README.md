@@ -25,7 +25,7 @@ Since this is a lightweight wrapper around Puppeteer Core, you strictly need:
 ## 📥 Installation & Usage
 
 ### Method 1: The Easy Way (Pre-built .exe)
-1.  Download the latest `GreeToon.exe` from the [Releases](your-github-release-link-here) page.
+1.  Download the latest `GreeToon.exe` from the [Releases]([your-github-release-link-here](https://github.com/Greeval/GreeToon/releases/tag/GreeToon)) page.
 2.  Make sure you have Google Chrome installed.
 3.  Double-click `GreeToon.exe`.
 4.  Choose **[1] Download Chapter** and paste your links!

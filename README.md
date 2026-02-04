@@ -1,5 +1,5 @@
 # ⚡ GreeToon - Comic Downloader
-
+ 
 **GreeToon** is a powerful, application to automate the process of downloading comic chapters from various websites. Built with **Node.js** and **Puppeteer**, it simulates a real user browser to bypass basic anti-bot protections and render dynamic content.
 
 Developed by **Greeval Studio**.
